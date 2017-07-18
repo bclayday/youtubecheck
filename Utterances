@@ -1,0 +1,15 @@
+
+"GetSubsciberCount" current subcriber count 
+"GetSubsciberCount" number of subscibers
+"GetSubsciberCount" how many subscibers 
+"GetSubsciberCount" how may subscibers do I have 
+
+"GetVideoViewCount" current video view count 
+"GetVideoViewCount" number of video views
+"GetVideoViewCount" video view count
+"GetVideoViewCount" how may video view do I have 
+
+"GetVideoViewCountSinceDate" current video view count {SinceDate} 
+"GetVideoViewCountSinceDate" number of video views {SinceDate}
+"GetVideoViewCountSinceDate" video view count {SinceDate}
+"GetVideoViewCountSinceDate" how may video view do I have {SinceDate}
